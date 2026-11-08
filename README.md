@@ -10,7 +10,7 @@ Open `Ironfield.rbxlx` in Roblox Studio and press **Play**. The battlefield take
 
 ## Setup with Rojo
 
-1. Install Rojo 7.4 or newer, either with [Rokit](https://github.com/rojo-rbx/rokit) (`rokit install` reads `rokit.toml`) or the Rojo plugin, and install the Rojo Studio plugin.
+1. Install Rojo 7.7, either with [Rokit](https://github.com/rojo-rbx/rokit) (`rokit install` reads `rokit.toml`) or the Rojo plugin, and install the Rojo Studio plugin.
 2. From this folder run:
 
    ```bash
