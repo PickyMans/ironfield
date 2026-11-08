@@ -1,0 +1,31 @@
+---
+base: luau
+name: roblox_min
+globals:
+  game: {any: true}
+  workspace: {any: true}
+  script: {any: true}
+  Instance: {any: true}
+  Vector3: {any: true}
+  Vector2: {any: true}
+  CFrame: {any: true}
+  Color3: {any: true}
+  UDim: {any: true}
+  UDim2: {any: true}
+  Enum: {any: true}
+  Region3: {any: true}
+  Random: {any: true}
+  RaycastParams: {any: true}
+  TweenInfo: {any: true}
+  task: {any: true}
+  buffer: {any: true}
+  warn: {any: true}
+  typeof: {any: true}
+  time: {any: true}
+  tick: {any: true}
+  table.clone: {args: [{type: table}]}
+  table.clear: {args: [{type: table}]}
+  table.create: {args: [{type: number}, {required: false, type: any}]}
+  table.move: {args: [{type: table}, {type: number}, {type: number}, {type: number}, {required: false, type: table}]}
+  math.clamp: {args: [{type: number}, {type: number}, {type: number}]}
+  math.noise: {args: [{type: number}, {required: false, type: number}, {required: false, type: number}]}
